@@ -1,10 +1,10 @@
 # Covid Maps
 ## Geog 458 lab 3
-In this project, I created two maps to visualize the covid counts and rates for each county in the US. Both maps contains allows you to click on each county for detailed information. You can also zoom in/out to look for a particular area.
+In this project, I created two maps to visualize the covid counts and rates for each county in the US. Both maps allow you to click on each county for detailed information. You can also zoom in/out to look for a particular area.
 
 ![image of rates map](./img/Rates.png)
 [Covid Rates](./map1.html)
-___
+
 ![image of counts map](./img/Counts.png)
 [Covid Counts](./map2.html)
 
